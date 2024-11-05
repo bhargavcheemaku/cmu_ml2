@@ -1,5 +1,6 @@
 # cmu_ml2
-this is for machine learning 2. 
+
+Assignment 1: 
 
 Team 1: Nikhil Dittakavi, Srinivasa Cheemakurthi, Samira Shah, Jessica Waissmann, Elaaf Khan
 
