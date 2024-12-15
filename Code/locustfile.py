@@ -11,8 +11,8 @@ class SimulateTourneyUser(HttpUser):
             "input": "1"  
         }
         
-        # Sending POST request to the /simulateTourney endpoint
-        response = self.client.post("/simulateTourney", json=payload)
+        # Sending POST request to the /spredict endpoint
+        response = self.client.post("/predict", json=payload)
         
         # Print the response or log for debugging
         if response.status_code == 200:
